@@ -1,6 +1,3 @@
-# SBER_STROB_PCB
-This repository includes Hardware and software documentation for stroboscope creation
-
 Проект включает в себя:
 1) Прошивка микроконтроллера в папке bin
 2) Проект с исходным кодом для микроконтроллера в папке Sber_Stroboscope_pcb_v1
@@ -17,4 +14,3 @@ This repository includes Hardware and software documentation for stroboscope cre
 6. Установите программу Termite 3.4. Она лежит в папке Windows. Для ОС на Linux выполните команду sudo apt-get install putty, она установит аналогичную программу для работы с консолью через последовательный порт
 7. Запустите программу и натсройте в ней нужный номер COM порта, а также скорость передачи 230400 бод
 8. нажмите подсоединиться и нажмите кнопку перезагрузки на устройстве, появится меню работы стробоскопа в консоли
-
